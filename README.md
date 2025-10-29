@@ -45,3 +45,4 @@ When all 8 pairs are matched, a congratulatory message is displayed and the deck
 4. Once all 8 pairs are matched, the game resets automatically with shuffled cards.
 
 # live link : 
+https://chesta-gaur.github.io/memory-card-game/
